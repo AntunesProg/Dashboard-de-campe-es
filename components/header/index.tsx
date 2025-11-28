@@ -3,7 +3,7 @@ export default function Header(){
         <header className="flex px-2 py-4 bg-blue-600 text-white">
             <div className="flex items-center justify-between w-full mx-auto max-w-7xL">
             <div>
-            Titulo Provisório
+            Dashboard Campeões League of Legends
             </div>
             <nav>
 
